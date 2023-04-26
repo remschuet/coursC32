@@ -2,10 +2,17 @@
 
 html {
     font-size: 62.5%;
-    font-family: Roboto;
+    font-family: 'Roboto';
+    background-color: rgba(150, 150, 150, 0.9);
 }
 
-#logo {
+#logo{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+#logo img {
     width: 6rem;
 }
 
@@ -33,4 +40,5 @@ nav ul li a{
 
 #description{
     font-size: 1.5rem;
+    background-color: beige;
 }
