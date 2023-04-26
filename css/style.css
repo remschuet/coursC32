@@ -3,7 +3,6 @@
 html {
     font-size: 62.5%;
     font-family: 'Roboto';
-    background-color: rgba(150, 150, 150, 0.9);
 }
 
 #logo{
@@ -39,6 +38,6 @@ nav ul li a{
 }
 
 #description{
+    margin-top:10rem;
     font-size: 1.5rem;
-    background-color: beige;
 }
